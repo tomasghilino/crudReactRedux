@@ -1,3 +1,10 @@
+Aclaracion: 
+
+Se debe utilizar ```npm start``` para correr react, y ```json-server db.json --port 4000``` para correr la base de datos local de JSON. Además, obviamente instalarse las dependencias. La aplicación no esta subida a internet asi que solamente se puede ver el proyecto localmente.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
